@@ -204,6 +204,8 @@ If you have a ciphertext only problem, try to do the following:
 
 ## Forensics
 
+Don't.
+
 ## Miscellaneous
 
 Try to avoid these as much as possible:
